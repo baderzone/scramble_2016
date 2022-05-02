@@ -13,7 +13,7 @@ This software implements the analysis described in the publication and generates
 
 - Joel Bader, Johns Hopkins University, <joel.bader@jhu.edu>
 - Giovanni Stracquadanio, University of Edinburgh, <giovanni.stracquadanio@ed.ac.uk>
-- Yue Shen,BGI-Research and Shenzhen Synthetic Biology Innovation Institute, <shenyue@genomics.cn>
+- Yue Shen, BGI-Research and Shenzhen Synthetic Biology Innovation Institute, <shenyue@genomics.cn>
 
 ## License
 
