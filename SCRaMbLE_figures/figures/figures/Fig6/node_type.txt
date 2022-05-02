@@ -1,0 +1,17 @@
+ID	nodetype
+07L	essential
+07R	essential
+09L	essential
+09R	essential
+10L	essential
+10R	essential
+12L	essential
+12R	essential
+20L	essential
+20R	essential
+14L	MET
+14R	MET
+32L	LYS
+32R	LYS
+02L	CEN
+02R	CEN

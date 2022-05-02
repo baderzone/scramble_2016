@@ -1,0 +1,88 @@
+=head2 Sat Apr 14 18:55:13 2018: C<Module> L<Number::Format|Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /hwfssz1/CNGB_WRITE/USER/wangyun/TechDeve/Syngenor.v2.1/lib/perllib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr 14 18:56:29 2018: C<Module> L<Number::Format|Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /hwfssz1/CNGB_WRITE/USER/wangyun/TechDeve/Syngenor.v2.1/lib/perllib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr 14 18:59:12 2018: C<Module> L<Number::Format|Number::Format>
+
+=over 4
+
+=item *
+
+C<installed into: /hwfssz1/CNGB_WRITE/USER/wangyun/TechDeve/Syngenor.v2.1/lib/perllib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sat Apr 14 19:14:29 2018: C<Module> L<Math::Cephes|Math::Cephes>
+
+=over 4
+
+=item *
+
+C<installed into: /hwfssz1/CNGB_WRITE/USER/wangyun/TechDeve/Syngenor.v2.1/lib/perllib>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.5305>
+
+=item *
+
+C<EXE_FILES: pmath>
+
+=back
+
