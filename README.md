@@ -1,4 +1,4 @@
-# SCRaMbLE_2016 
+# SCRaMbLE_2016
 
 Software supplement for "SCRaMbLE generates designed combinatorial stochastic diversity in synthetic chromosomes", 2016 Genome Research, available here: [https://genome.cshlp.org/content/26/1/36.full](https://genome.cshlp.org/content/26/1/36.full).
 
